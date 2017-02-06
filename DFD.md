@@ -1,2 +1,1 @@
-
-https://cloud.githubusercontent.com/assets/25204776/22434468/d32f8954-e6e1-11e6-8947-9c50c75e22f9.png
+https://cloud.githubusercontent.com/assets/25204776/22658206/e7a6ab60-ec5e-11e6-985e-0b2e52552873.png
