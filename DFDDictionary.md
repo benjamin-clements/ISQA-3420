@@ -8,15 +8,16 @@
   
 ### Data Flows
  
-  * Software Package: The developed software from the developer that is needs to be scanned for licenses and vulnerabilties
-  * Software Package Name: Name of the software that is going to be submitted to the NIST Vulnerability database
-  * NIST Vulnerability Results: Results from the NIST Vulvernability Database for known vulnerabilities
+  
   * License Results: Results from the License Scanner regarding any licenses for known software code
   * License and Vulnerability Results: All results from both the NIST Vulvernability Database and the License scanner
-  * License and Vulnerability Info Request: Submission for information for both License and Vulnerabilities for particular software package
+  * License and Vulnerability Info Request: Submission for information for both License and Vulnerabilities for particular software         package
+  * NIST Vulnerability Results: Results from the NIST Vulvernability Database for known vulnerabilities
   * Policy Retrieval Request: Submission for policy from the Policies database
   * Policy Results: Any and all policy information from the Policies database
   * Policy Changes: Any and all policy updates or creation being submitted to the Policies database
+  * Software Package: The developed software from the developer that is needs to be scanned for licenses and vulnerabilties
+  * Software Package Name: Name of the software that is going to be submitted to the NIST Vulnerability database
   
 ### Processes
 
