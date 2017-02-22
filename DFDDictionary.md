@@ -22,3 +22,11 @@
 
   * Create/Update Policy: Process of creating or updated a policy based off of license and vulnerability results 
   * License Scanner: Process of a software package being uploaded to the scanner to identify any license issues
+  * License and Vulnerability Info Lookup: Process of receiving a request for information for license and vulnerabilities for a particular   software and outputting the results
+  * Manage License and Vulnerability Information: Process of handling requests for license and vulnerabilities of particular software          packages, uploading software packages to scanners, uploading a name of software package to a database, and outputting the requested       results
+  * Retrieve Policy: Process of receiving a request for any and all policies and outputting requested policies to manager
+  
+### Entities
+
+  * Developer: The programmer of the software package
+  * Manager: The head person who creates and updates policies based on license and vulnerability results after putting in the request for     the information
